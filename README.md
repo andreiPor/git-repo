@@ -1,2 +1,2 @@
 # git-repo
-to study git
+some description about git and github
